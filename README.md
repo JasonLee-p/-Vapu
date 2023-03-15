@@ -1,3 +1,3 @@
 # -Vapu
 A minecraft hack lmao
-用于mc的搭桥实战中
+用于拦截网易mc启动器的检测。
